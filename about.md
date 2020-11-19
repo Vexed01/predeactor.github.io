@@ -3,44 +3,40 @@ title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+<br>
+<p>My username on Internet is Predeactor, mostly with "Capitaine".
+My real name is Julien, and as you may already guessed, I'm a passionated
+developer. Most of the time, I work on Python (At least, when I'm writting this)
+and I really enjoy making things for fun! There's nothing I need to worry about,
+except school...</p>
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>More about me is that I am a music lover, games player and content creator.
+My style of music is the electro/pop, EDM in some case, but most importantly,
+I **LOVE** vocaloids voices! Vocaloid are vocals made through computer, my 
+favorite one is Hatsune Miku, most of you (If you encoutered me on Internet)
+already know this fact.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I don't play a lot of games, but when I do, I really enjoy them.
+i have a passion for horror game, but also PvP and adventure, you can find
+me <a href="https://steamcommunity.com/profiles/76561199061642720">on Steam
+by clicking this link</a> and know what I'm playing.</p>
+
+<p>If you wish to talk to me, you can join my Discord server 
+<a href="discord.gg/A85Dnqh">by clicking here</a>, but you can also find me on 
+<a href="discord.gg/red">the Red - Discord Bot server</a>, I'm often talking 
+with the gang!</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>HTML - CSS</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/Cog-Creators">Red - Discord Bot</a></li>
+	<li>Making music 🎶</li>
+	<li><a href="https://discord.gg/R4jCRCqxHg">Filtering ToDo list</a>.</li>
 </ul>
