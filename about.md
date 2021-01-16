@@ -22,8 +22,8 @@ me <a href="https://steamcommunity.com/profiles/76561199061642720">on Steam
 by clicking this link</a> and know what I'm playing.</p>
 
 <p>If you wish to talk to me, you can join my Discord server 
-<a href="discord.gg/A85Dnqh">by clicking here</a>, but you can also find me on 
-<a href="discord.gg/red">the Red - Discord Bot server</a>, I'm often talking 
+<a href="https://discord.gg/A85Dnqh">by clicking here</a>, but you can also find me on 
+<a href="https://discord.gg/red">the Red - Discord Bot server</a>, I'm often talking 
 with the gang!</p>
 
 <h2>Skills</h2>
@@ -38,5 +38,5 @@ with the gang!</p>
 <ul>
 	<li><a href="https://github.com/Cog-Creators">Red - Discord Bot</a></li>
 	<li>Making music 🎶</li>
-	<li><a href="https://discord.gg/R4jCRCqxHg">Filtering ToDo list</a>.</li>
+	<li><a href="https://discord.gg/R4jCRCqxHg">Filtering my ToDo list</a>.</li>
 </ul>
