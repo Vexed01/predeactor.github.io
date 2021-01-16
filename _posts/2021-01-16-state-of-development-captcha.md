@@ -31,7 +31,7 @@ Everything is handled in the `on_member_join` function, which is a REALLY BAD id
 So my first goal was, make something more sane, more clear, more performant, more trustable. And boom, from the idiot Captcher to the awesome Captcha cog!
 First, I called the first cog Captcher because of a problem that happens with cog and pip, which is used to install some things that can be useful for developers. Captcher and Captcha are depend of a library called "captcha", if I also call the folder that store all files for the cog, Python will refuse the code, because of some non importable thingy, so what did I do? I heavily copied the dependency's code into the cog's files and... yay, it work, a little victory!
 
-You didn't understand what I wrote? It's fine;..
+You didn't understand what I wrote? It's fine...
 
 ## Making the cog
 When I started writing the cog, everything was pretty fine, everything goes well, everything was... quite better, but here was my first mistake: I didn't made any road maps, any list to follow.
@@ -63,10 +63,10 @@ But I've discovered other things too, while this was happening, all I wanted was
 
 # Now?
 Now? Now... Captcha will be delayed.
-.
+
 I don't want to code because I must code while advancing, being blind. Not anymore.
 Even if it's gonna take way, way, way more time than I expect, I'll still continue on making this cog, but it will be only when I want.
 
 I mean, yeah, I must advance anyway, but this does not limit to my fingers, my keyboard and my Python's knowledges, I still must think of me.
 
-Red is a project I am happy to work one, really, but it take a lot of my time, and I may not have a ton of time, most especially with the global pandemic and my work.
+Red is a project I am happy to work on, really, but it take a lot of my time, and I may not have a ton of time, most especially with the global pandemic and my work.
