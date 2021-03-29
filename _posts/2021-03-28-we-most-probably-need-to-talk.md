@@ -97,7 +97,7 @@ Pourtant, chaque instant que j'ai passer sur ce serveur était un bon moment, pl
 
 # Shrug
 Parfois, j'ai l'impression qu'il faut avoir fait quelques choses de particulier pour se sentir intégrer. Quoi ? Comment ? Où ? Pourquoi ?
-Ça me laisse très confu, je reste incertain, mais j'avance, et parfois, en regardant sur les côtés, je me dis que quelques choses ne doit pas aller avec moi, que quelques choses me trouble et ne me corresepond pas. Mais quoi ?
+Ça me laisse très confus, je reste incertain, mais j'avance, et parfois, en regardant sur les côtés, je me dis que quelques choses ne doit pas aller avec moi, que quelques choses me trouble et ne me corresepond pas. Mais quoi ?
 
 Je ne fait que me plaindre, mais croyez moi, c'était nécessaire, quelques part au fond de moi voulait ressortir tout ça.
 
