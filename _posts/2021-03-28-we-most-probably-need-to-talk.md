@@ -53,7 +53,7 @@ Juste avant, rappelons le, Fuze III est un Youtubeur sur Minecraft faisant diver
 
 ## Commencement
 Et oui, peu le savent, mais c'est grâce à la communauté de Fuze III que j'ai pu me forger ce que je suis sur Discord, aussi bête que ça pourrait avoir l'air, beaucoup de mes relations sont originaire de Fuze III. Putain les gars, si vous savez à quel point je suis content de faire partie de cette communauté... 
-Bon par contre, j'ai fait beaucoup de superbe rencontres, beaucoup, beaucoup de choses s'est passé là bas. On va essayer d'en parler un peu ici. J'aimerais vraiment m'exprimer sur ce sujet, ça me tient à cur en fait.
+Bon par contre, j'ai fait beaucoup de superbe rencontres, beaucoup, beaucoup de choses s'est passé là bas. On va essayer d'en parler un peu ici. J'aimerais vraiment m'exprimer sur ce sujet, ça me tient à coeur en fait.
 
 ## Début
 Quand j'ai rejoint d'abord Fuze III, ce qui fait actuellement un an déjà, j'ai évidemment été dans la "basse hiérarchie", personne ne me connaissait, et donc il ne me restait plus qu'à me socialiser avec les gens. Je ne pense pas que certaines personnes puissent comprendre le fait que se socialiser sur ce serveur peut être plus compliqué sur ce serveur que sur un autre, et ça peut se comprendre :
