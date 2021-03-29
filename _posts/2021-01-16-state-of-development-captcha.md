@@ -70,3 +70,8 @@ Even if it's gonna take way, way, way more time than I expect, I'll still contin
 I mean, yeah, I must advance anyway, but this does not limit to my fingers, my keyboard and my Python's knowledges, I still must think of me.
 
 Red is a project I am happy to work on, really, but it take a lot of my time, and I may not have a ton of time, most especially with the global pandemic and my work.
+
+# Edit 28/03: Finished since a long time.
+Heya! Welcome back to the annoying first post I made!
+Captcha is now a cog I finished a long time ago, kinda proud of me since I was expecting to release it way later after making this post but determination decided the contrary. Not a bad thing, to be honest.
+So, hey, now I can be on my others projects! Cool right? I really hope to... well not deal with problems for Captcha, so far, it's been my biggest project, with the creation of DisCapTy library, literally my first PyPi project, and the difficulties of this challenge, maybe I really want to stay away of that boy.
