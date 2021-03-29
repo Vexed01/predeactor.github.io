@@ -67,7 +67,7 @@ Mais actuellement, il y a eu un très gros souci quand je suis arrivé, et c'ét
 
 ## Les HCPs ou Personnes de conflits importants
 Il est vrai que dit comme ça, ce terme peut sembler un peu... sarcastique. Pourtant, il désigne les personnes qui ne sont pas forcément ici pour améliorer la vie du serveur, au contraire, c'est ceux qui nous ont caussé beaucoup de problèmes sur le serveur.
-Je sort ce terme de [l'académie de modération de Discord]https://discord.com/moderation/360060487093-443:-Ban-Evasion-and-Advanced-Harassment), c'est un sujet rare pour autant, mais à expliquer.
+Je sort ce terme de [l'académie de modération de Discord](https://discord.com/moderation/360060487093-443:-Ban-Evasion-and-Advanced-Harassment), c'est un sujet rare pour autant, mais à expliquer.
 
 Résumons, ces personnes ont une histoire beaucoup plus profonde que je ne le sais, donc je ne connais pas l'origine de l'histoire et de ce qui s'est passé avant mon arrivé, pour autant, j'ai été victime de leur attaque.
 Ces personnes s'amusait à nous pousser à bout sur le serveur pour qu'au final, la modération du serveur nous bannissent, nous kick ou mute. Même si peu on était banni, ces personnes restait sur ce serveur, la modération n'avait pas vraiment de quoi les bannir avec une raison valable, il gardait un bon langage mais restait virulant.
