@@ -15,7 +15,7 @@ If you want to test locally on your machine, do the following steps also:
 1. Install [Jekyll](https://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](https://bundler.io/).
 2. Clone repo: `git clone https://github.com/Predeactor/predeactor.github.io`
 3. Enter project and run: `bundle install`
-4. Run; `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
+4. Run: `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 5. Open in browser:`http://localhost:4000` (Admin panel is usable locally: `http://localhost:4000/admin`)
 
 ---

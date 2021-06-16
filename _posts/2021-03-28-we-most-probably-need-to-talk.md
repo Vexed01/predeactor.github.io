@@ -108,3 +108,40 @@ Si vous souhaitez me dire quelque chose qui me fait défaut, n'importe quoi, abs
 
 And for you, my english reader, a TL;DR in english, if there's anything you want to say about me, come see me, come talk to me, say anything about me, I need to improve myself, and alone, I can't do it.
 I think I am ignorant, and that I need help, from anyone.
+
+# Edit: 8/6/2021
+Devinez quoi ? Je suis banni de F3 ! Et depuis un bout de temps déjà !
+Et vu que ça commence, et je vais utiliser des mots pour des adultes et pas pour les bébés assis au fond, à me briser les couilles comme si je commençais à avoir le cancer qui se développe à l'intérieur aussi vite qu'un mome qui me tire la jambe, alors je vais pas me retenir.
+
+Le modérateur en question qui m'a banni est **Jhuna#1358**, anciennement connu sous le nom de **Endless** sur le serveur, elle est la même exact personne, et j'en ai les preuves.
+Je sais pas ce qu'il a dans la tête, mais c'est complètement trafiqué et louche. Avant qu'il supprime son compte, il perd son grâde de modérateur, et que se passe t-il quelques jours plus tard ? OH ! Surprise ! Un nouveau modérateur ! Jhuna ! Ah non, je devrais peut être dire "elle" depuis le début vu les crises d'identités...
+
+J'en ai juste putain d'assez de toi Endless, je sais foutrement rien si tu liras ce foutu post que je remplis de haine et dont je ne suis pas le seul à penser, mais j'ai les couilles de le faire publiquement en ouvrant ma grande gueule. J'en ai rien à faire si à cause de ça, je suis banni du serveur ***"""SECRET"""*** appelé Ambrume, qui ne doit surtout pas être dit !
+Du jour au lendemain, toi qui parait sympatique en temps normal, tu me banni de ton serveur pour quasi aucune raison et tu devient passive-aggresive envers moi et tu m'exclus d'absolument tout. 
+
+Mais bon, en soi, tu n'es pas la seule à qui je souhaite me déchéner, mais simplement aussi au serveur et à sa modération. Vous êtes d'une incroyable toxicité et vous pensez "protéger" les membres. VOUS PUNISEZ LES MEMBRES REGULIERS ?! EN QUEL FOUTU HONNEUR ?
+
+D'ailleurs, j'ai pas dit pourquoi j'ai été banni ! Pas que j'en ai honte, oh non, c'est même vous qui devriez en avoir honte.
+Je parlais avec **simplement basique** dans le général vu qu'il était enfin de retour après un long temps d'absence, et j'ai lancé une petit blague avec Ori, et j'avais dis "On a beaucoup rendu visite à ta mère avec Ori, basique", quelque chose dans ce style, pas exactement. Ensuite, je suis parti, et j'ai été banni, je suis allez voir avec Ori, et voici un screen suivant mon ban :
+![Le ban](https://cdn.discordapp.com/attachments/770442681330958366/830146863839313920/Captureeeeeeeee.PNG)
+
+Alors, comment dire, ah oui, avec de bonne grosses majuscules.
+IL Y A DES PERSONNES QUI FONT CHIER TOUT LE MONDE SUR LE SERVEUR QUI NE SONT AUCUNEMENT DES HABITUELS DU SERVEUR ET QUI SONT JUSTE LÀ JUSTE POUR FAIRE CHIER LE MONDE ET QUI ONT JUSTE LE DROIT À UN PETIT "Restez calme s'il vous plait" OU QUI SE FAIT SIMPLEMENT MUTE, ET MOI, QUI RIGOLE AVEC MON POTE, SANS GÊNER ***PERSONNE***, JE ME FAIT BANNIR ???
+PUTAIN LES GARS, VA FALLOIR FAIRE QUELQUE CHOSE POUR VOUS !
+
+JUSTE PARCE QUE TU NE M'APPRECIE PAS ???????? MAIS WTF ????????????????????????????????????????????????????????????????????????????????
+ET VOUS PENSEZ ÊTRE DES HEROS ?
+
+C'est drôle.
+
+C'est très drôle.
+
+Car vous n'êtes même pas capable de vous entendre.
+![Discussion avec Snorcky](https://predeactor.please-end.me/rAKSXw.png)
+Imagine ne pas faire la différence entre "blague" et "contenu sexuel". ooeeee c'est sûr que j'ai parler de mon gros [\*\*\*] avec plein de choses délicieuses dedans... 
+
+J'en ai juste assez de votre pouvoir sur ce serveur, qui se refile d'amis en amis, de votre toxicité que vous vous êtes créer vous même, tous ensemble ou pour la plupart, en groupe.
+
+Vous êtes la honte des modérateurs de Discord pour moi. Des administrateurs qui ne peuvent plus écouter la communauté, étant trop chargé à d'autres tâches. De punitions basé sur des raisons peu valable et pervertie par votre haine de vos propres membres.
+
+Je ne souhaite pas revenir pour vous, mais pour mes amis.
