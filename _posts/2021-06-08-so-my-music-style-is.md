@@ -109,6 +109,8 @@ Ads were passing along before the show began, then there was the Japan and Engli
 
 The show began. AAAAAAAAAAAAAAAAAA I WAS HYPED!!!
 
+![Intro...]({{ 'assets/miku-expo-2021-intro.gif' | relative_url }})
+
 I was hyped during all the beginning.
 Then the show was done. And during a long moment, I felt something empty inside me.
 When the show was done, there was this screen stuck for 10 good minutes, or maybe more, telling us "Thank you!"
