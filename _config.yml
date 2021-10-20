@@ -1,6 +1,6 @@
 # main text of home
 name: Predeactor
-bio: Python Dev, Cog Creator, Content Creator and annoyed maker.
+bio: Python Dev, Content Creator and annoyed maker.
 
 # twitter summary info
 description: My personal blog, I talk about everything and nothing, mostly about me, nothing much.
@@ -54,7 +54,7 @@ email: predeactor0@gmail.com
 authors:
   julien:
     name: Predeactor
-    bio: Python Dev, Cog Creator, Content Creator and annoyed maker.
+    bio: Python Dev, Content Creator and annoyed maker.
     external-image: false
     picture: assets/images/profile.jpg
     twitter: Predeactor1
